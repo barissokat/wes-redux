@@ -16,6 +16,6 @@ function posts(state = [], action) {
     default:
       return state;
   }
-}s
+}
 
 export default posts;
