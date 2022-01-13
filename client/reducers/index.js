@@ -1,3 +1,4 @@
+// It is the main reducer where other reducers are combined. 
 import { combineReducers } from 'redux';
 import { routerReducer } from 'react-router-redux';
 
